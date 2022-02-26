@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief of the papers touching a market petitioned for to be held in Clements Inne Fields, as it stood before the Parliament in the yeare 1652. and of what hath since been offered therein, and done by his Highnesse and the council.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77451</idno>
+            <idno type="STC">Wing B4618</idno>
+            <idno type="STC">Thomason 669.f.19[19]</idno>
+            <idno type="STC">ESTC R212099</idno>
+            <idno type="EEBO-CITATION">99870749</idno>
+            <idno type="PROQUEST">99870749</idno>
+            <idno type="VID">163357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief of the papers touching a market petitioned for to be held in Clements Inne Fields, as it stood before the Parliament in the yeare 1652. and of what hath since been offered therein, and done by his Highnesse and the council.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The petition of the inhabitants of the parishes of Clements Danes, Savoy, &amp;c -- To the honourable committee of Parliament to prepare acts to set up or alter markets -- Reasons wherefore a new market in Clements-Inne-fields should be established by act of Parliament.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Markets --  England --  Early works to 1800.</term>
+               <term>Middlesex (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163357:1" rendition="simple:additions"/>
+            <head>A Brief of the Papers touching a Market petitioned for to be held in <hi>Clements</hi> Inne Fields, As it ſtood be<g ref="char:EOLhyphen"/>fore the Parliament in the yeare 1652. and of what hath ſince been offered therein, and done by his HIGHNESSE and the COUNCIL.</head>
+            <div type="part">
+               <head>The Petition of the Inhabitants of the Pariſhes of <hi>Clements Danes, Savoy,</hi> &amp;c. Signed by about 40. Juſtices of the Peace for <hi>Middleſex,</hi> Preſented to the late Committee of the late Parliament, concerning Markets, <hi>&amp;c.</hi> And, Reaſons offered to that Committee for eſtabliſhing a Market in <hi>Clements</hi> Inne Fields, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">V</seg>Pon the Petition of the Freeholders of the County of <hi>Middleſex</hi> preſented to the Lords and Commons in Parliament for a Market in <hi>Clements-Inne-Fields</hi> three dayes in the weeke, it was referred to the Committee for Faires and Markets, &amp;c.</p>
+               <p>The Inhabitants of <hi>Clements Danes, Savoy,</hi> and other Pariſhes adjacent in the County of <hi>Middleſex,</hi> Petitioned the ſaid Committee for a Market, and the Petition was ſigned by moſt of the Juſtices of Peace of the ſaid County.</p>
+               <p>The ſaid Committee the 18. of <hi>January,</hi> 1652. upon a full hearing of the Citizens of <hi>London</hi> and <hi>Westminſter</hi> by their Councel oppoſing the erecting of a Market as aforeſaid: And upon ſerious conſideration had of the conveniencies of a Market in <hi>Clements-Inne-Fields,</hi> as was prayed, that Committee did declare, That they conceived it would conduce very much to the benefit, eaſe and advantage of the people of the County inhabiting in the Pariſhes in the Petition mentio<g ref="char:EOLhyphen"/>ned: and of the County of <hi>Middleſex</hi> to have a Market in the ſaid place, &amp;c. And did Order that an Act ſhould be prepared for a Market to be held there, upon every Tueſday, Thurſday, and Saturday in every week. And Maſter <hi>Hill</hi> and Maſter <hi>Lechmore</hi> were appointed to draw the Act. <hi>Prout</hi>
+               </p>
+               <p>The Parliament the fourth of <hi>Feb.</hi> 1652. (the Citizens of <hi>London</hi> petitioning them againſt the erecting the ſaid Market) Ordered that the Committee for Markets ſhould bring in their Report, and the Act prepared by them for the Market in this Petition complained of. And that at the ſame time the Cities Petition ſhould be taken into con<g ref="char:EOLhyphen"/>ſideration. <hi>Prout.</hi>
+               </p>
+               <p>The 17. <hi>Feb.</hi> 1652. It was Ordered by the ſaid Committee, that the Bill, touching the ſaid Market then read, ſhould be reported to the Parliament by Mr. <hi>Challoner</hi> or Col: <hi>Liſter</hi> with all ſpeed <hi>Prout.</hi> But the Bill was not Reported, for that the Parl. was ſoone after diſſolved.</p>
+               <p>The Inhabitants of the ſeverall Pariſhes hereafter mentioned Petition his Highneſſe to eſtabliſh the ſaid Market in manner aforeſaid: the <hi>9.</hi> of <hi>June</hi> 1654. his Highneſſe referred the whole matter to the Council for their ſpeedy and effectuall conſideration therein. And the Council referred it to a Committee of themſelves; but nothing was thereupon concluded, other weighty matters of State interpoſing.</p>
+            </div>
+            <div type="part">
+               <head>To the Honourable Committee of Parliament to prepare Acts to ſet up or alter Markets.</head>
+               <head>The Humble Petition of the Inhabitants of the ſeverall Pariſhes of <hi>Clement Danes, Savoy, Covent Garden, Martin</hi> in the fields, <hi>Giles</hi> in the fields, and other Pariſhes and places adjoyning, in the County of <hi>Middleſex,</hi> in purſuance of a former, prepared for the Parliament.</head>
+               <opener>HUMBLY SHEVV,</opener>
+               <p>THat the particular Pariſhes before mentioned being of large extent, and the Inhabitants many, by reaſon of the great encreaſe of Buildings, and divers perſons of qua<g ref="char:EOLhyphen"/>lity having houſes and lodgings there, and great numbers reſorting thither from all parts of <hi>England,</hi> to attend the Parliament and Courts of Law; and the Markets be<g ref="char:EOLhyphen"/>ing far diſtant, none being between <hi>Weſtminſter</hi> and <hi>Newgate:</hi> many leud perſons are thereby encouraged to carry, and ſell unwholſome meat, and other unwarrantable goods and wares up and downe the ſtreet, to the abuſe of honeſt people. And others by this opportunity of Sale, and their own wicked diſpoſitions, are induced to ſteale Sheep Poultry, and other things, and here utter them in private: others for want of room in the Markets of <hi>London</hi> and <hi>Weſtminſter,</hi> bring their proviſions to Inns and Ale<g ref="char:EOLhyphen"/>houſes in theſe parts, and there ſit and ſell them at dearer prices than the Market gives; and preſuming upon the remoteneſſe of the Market, put off bad and unfound provi<g ref="char:EOLhyphen"/>ſions at deare rates, and abuſe the Buyers in their weight and meaſure; beſides many other inconveniences which daily accrew for want of Markets in theſe parts; there be<g ref="char:EOLhyphen"/>ing not ſufficient room for your Petitioners, Inhabitants in <hi>Middleſex</hi> and other parts, to place and attend their commodities for ſale, to the great loſſe and prejudice of your Petitioners.</p>
+               <p>For remedy whereof, and the future eaſe and good of your Petitioners, and other Inhabitants of the ſaid ſeverall Pariſhes, and other adjacent Towns in <hi>Middleſex,</hi> and elſewhere: <hi>May it pleaſe you to be a means,</hi> That by Act of Parliament, a common and open Market for all manner of Proviſions may be eſtabliſhed, and appointed to be kept three dayes in the week, (<hi>viz.</hi>) every <hi>Tueſday, Thurſday,</hi> and <hi>Saturday,</hi> in a place in <hi>Clements-Inne</hi>-fields, moſt indifferent and convenient for that purpoſe, and not prejudicial to any other Market.</p>
+               <closer>And your Petitioners, &amp;c.
+<signed>
+                     <list>
+                        <item>Thomas Fowler.</item>
+                        <item>Jo. Thorougood.</item>
+                        <item>Barth: Hall.</item>
+                        <item>Pet: Bradſhaw.</item>
+                        <item>Joh: Haker.</item>
+                        <item>Tho: Baylie.</item>
+                        <item>John Barkſtead.</item>
+                        <item>R. Jegon.</item>
+                        <item>Edw. Rich.</item>
+                        <item>Will. Thomas.</item>
+                        <item>John Hern.</item>
+                        <item>W. Powel al. Hinſon.</item>
+                        <item>Thomas Pride.</item>
+                        <item>Edw. Creſſet.</item>
+                        <item>Rich. Lowther.</item>
+                        <item>Nath. Snape.</item>
+                        <item>Clem. Farnham</item>
+                        <item>Will. Roberts.</item>
+                        <item>Walter Bigg.</item>
+                        <item>Sam. Gookin.</item>
+                        <item>Rich. Sprignell.</item>
+                        <item>John Smith.</item>
+                        <item>Hum. Forſter.</item>
+                        <item>John Key.</item>
+                        <item>Rich. Downton.</item>
+                        <item>Edw. Harvey</item>
+                        <item>Tho. Marſh.</item>
+                        <item>John Norris.</item>
+                        <item>Sam. Moyer.</item>
+                        <item>Geo. Manley.</item>
+                        <item>Edw. Roberts.</item>
+                        <item>Rob. Nelſon.</item>
+                        <item>Fran. Weſt.</item>
+                        <item>Tob. Liſle.</item>
+                        <item>Rich. Powell.</item>
+                        <item>John Page.</item>
+                        <item>Fra. Bloomer</item>
+                        <item>Ger. Elwaies.</item>
+                        <item>Ja. Winſtanly.</item>
+                        <item>Will. Roberts.</item>
+                        <item>Will. Milliſh.</item>
+                        <item>Will. Robinſon</item>
+                        <item>Ja. Waterton.</item>
+                        <item>John Holliday</item>
+                        <item>Sol. Smith.</item>
+                        <item>Will. Brownlow.</item>
+                        <item>Mar. Hilderſley.</item>
+                        <item>Hen. Smith.</item>
+                        <item>Gilbert Barrell.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="list_of_reasons_for_establishing_a_new_market">
+               <head>Reaſons wherefore a New Market in <hi>Clements-Inne</hi>-fields ſhould be establiſhed by Act of Parliament.</head>
+               <list>
+                  <item>1. FOR that there hath been within theſe 40 years laſt paſt, ſo great an encreaſe of Building, that the Inhabitants thereabouts are three times more than formerly.</item>
+                  <item>2. The place deſigned for the Market is very convenient, near the Thames, having the two Wharfs of <hi>Sommerſet</hi> Yard and <hi>Milford</hi> Stairs ſo near adjoyning, that it will be a very great eaſe and encouragement for the Country people both of <hi>Middleſex</hi> and <hi>Surrey,</hi> to bring Mezle, and other Marketable commodities by Water at a ſmall charge.</item>
+                  <item>
+                     <p>3. It is neere an equall diſtance between <hi>Newgate</hi>-Market and <hi>Weſtminſter;</hi> ſo that the Inhabitants of <hi>Martins</hi> in the fields, <hi>Covent Garden, Giles</hi> in the fields, <hi>High Hol<g ref="char:EOLhyphen"/>bourn, Chancery-lane, Clement Danes,</hi> and <hi>Savoy</hi> in the <hi>Strand,</hi> may with much more eaſe, then now they are, be provided for.</p>
+                     <p>And to thoſe laſt mentioned places there is a great reſort from all parts of the Nation, both of Gentry and others, by reaſon of the Parliament and Courts of Law, and all Innes of Court and Chancery neere adjoyning: ſo that thoſe parts being ſo populous, have often complained of the want, and doe now earneſtly deſire the benefit of a Market there.</p>
+                  </item>
+                  <item>
+                     <p>4. The Market places both of <hi>Newgate</hi> and <hi>Weſtminſter</hi> are ſo little, that there is not roome for halfe the proviſions that are needfull for ſo numerous a peoples uſe; and the Country people for want of convenient roome and places for ſale of their commodities, are much diſcouraged, and many conſtrained to take places at Inns, which they pay dear for, and thereby neceſſitated to ſell their commodities at dearer rates.</p>
+                     <p>And others bring their commodities to blind Ale houſes, and thereby have opportunity to vend ſtolne or unwholſome victuals and wares: all which will be prevented, if a Market overt be eſtabliſhed.</p>
+                  </item>
+                  <item>5. Many poore Tradeſmen, who (notwithſtanding their Freedoms of the City of <hi>London</hi>) are neceſſitated to live in theſe parts for want of room; and dwelling within the Freedome, are neceſſitated to goe well-neere a Mile, if but to buy two peny-worth of commodities, to their great hindrance in their labour, on which their livelyhood depends, who will be very much eaſed by having a Market in the place aforeſaid.</item>
+               </list>
+               <p>
+                  <label>Object.</label> The City of <hi>London</hi> pretend, that by Charter no Market is to be eſtabliſhed within ſeven miles of <hi>London.</hi>
+               </p>
+               <p>
+                  <label>Reaſ.</label>
+                  <list>
+                     <item>1. If they have ſuch a Charter, it cannot be pretended that can bind the Parliament, if they think the eſtabliſhing of this Market is for the publick benef<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t:</item>
+                     <item>2. The Suburbs and places adjacent are now ten times as large as then they were, and more numerous than the City.</item>
+                     <item>3. If ſuch a Charter be, it is againſt the freedom of the Nation.</item>
+                     <item>4. The oppoſers of this Market (how the City of <hi>London</hi> ſeem to appeare in it) are onely particular Inhabitants of <hi>London</hi> and <hi>Weſtminſter,</hi> who would draw all to them<g ref="char:EOLhyphen"/>ſelves, for their own private intereſts, without reſpect to the publick, that they may fell at what rates they pleaſe; which by this means will be prevented.</item>
+                     <item>5. That the Markets of <hi>Brainceford, Weſtminſter,</hi> and <hi>Somthwarke,</hi> have been ſet up ſince they pretended Charters.</item>
+                  </list>
+               </p>
+               <p>And the Petitioners hope that they that have adventured their lives and fortunes for the ſervice of the Parliament, and preſent Government as far as any other; ſhall, notwith<g ref="char:EOLhyphen"/>ſtanding any oppoſition, have this their just requeſt granted, being for publick good, and no private intereſt.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>Septemb. 1654</add>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
